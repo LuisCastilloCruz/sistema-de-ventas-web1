@@ -1,0 +1,66 @@
+.text-muted,
+.preview-list .preview-item .preview-item-content p .content-category,
+.email-wrapper .mail-sidebar .menu-bar .profile-list-item a .user .u-designation,
+.email-wrapper .mail-list-container .mail-list .content .message_text,
+.email-wrapper .mail-list-container .mail-list .details .date {
+    color: #686868 !important;
+}
+
+
+
+.sidebar .nav .nav-item.nav-profile .profile-name .name,
+.sidebar .nav .nav-item.nav-profile .profile-name .designation {
+    font-family: "PTSans", sans-serif;
+    font-weight: 400;
+    margin-bottom: 0;
+    line-height: 1.5;
+}
+
+.sidebar .nav .nav-item.nav-profile .profile-name .designation {
+    color: #686868;
+    font-size: .75rem;
+}
+
+.email-wrapper .mail-sidebar .menu-bar .profile-list-item a .user .u-designation {
+    font-size: calc(0.8125rem - 0.1rem);
+    margin-bottom: 0;
+}
+
+.profile-page .profile-header .profile-info .profile-user-designation {
+    margin-bottom: 0;
+    font-family: "PTSans", sans-serif;
+}
+
+
+.sidebar .nav .nav-item.nav-profile .profile-name {
+    text-align: left;
+    margin-left: .75rem;
+  }
+  
+  .rtl .sidebar .nav .nav-item.nav-profile .profile-name {
+    margin-left: auto;
+    margin-right: .75rem;
+  }
+  
+  .sidebar .nav .nav-item.nav-profile .profile-name .name,
+  .sidebar .nav .nav-item.nav-profile .profile-name .designation {
+    font-family: "PTSans", sans-serif;
+    font-weight: 400;
+    margin-bottom: 0;
+    line-height: 1.5;
+  }
+  
+  .sidebar .nav .nav-item.nav-profile .profile-name .name {
+    color: #000000;
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  
+  .sidebar-dark .sidebar .nav .nav-item.nav-profile .profile-name .name {
+    color: #ffffff;
+  }
+  
+  .sidebar .nav .nav-item.nav-profile .profile-name .designation {
+    color: #686868;
+    font-size: .75rem;
+  }

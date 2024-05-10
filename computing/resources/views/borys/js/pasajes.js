@@ -1,0 +1,5 @@
+const getPasajes = async() =>{
+
+
+}
+getPasajes
